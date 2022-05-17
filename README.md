@@ -24,7 +24,7 @@ Total Number of users - 1000
 Total flows – Search flow 50%, Place order - 35 % and Replace order - 15%
 
 *Scenario3: 3_Bol_load_1000VU_1h. Due to time limits, the "Replace Order" flow has been changed to "Log Out". Number of total users has been de*. *Constant timer was used between transactions to implement pacing in load testing.*
-*The number of users has been reduced by 10 times(from 1000 to 100), due to java.net.SocketException: Connection reset for bol.com*
+*The number of users has been reduced by 10 times(from 1000 to 100), due to java.net.SocketException: Connection reset for bol.com (DDoS Protection Solution)*
 
 ## Deliverables
 1.	CI-ready performance test suite(s) which should be setup and executed as part of a pipeline.
