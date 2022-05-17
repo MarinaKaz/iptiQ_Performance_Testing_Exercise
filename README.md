@@ -30,18 +30,19 @@ Candidates are expected to choose the testing tool and the web application.
 ## Deliverables
 1.	CI-ready performance test suite(s) which should be setup and executed as part of a pipeline.
 
-To integrate tests with Jenkins, it needs to run from the command line. For these purposes were created .bat files with commands for each scenario:
+*To integrate tests with Jenkins, it needs to run from the command line. For these purposes were created .bat files with commands for each scenario:
 1_Bol_Homepage_1000VU_15sec.bat
 2_Bol_end-to-end.bat
 3_Bol_load_1000VU_1h.bat
-
 As a result, .jtl files have been created (e.g. 2_Bol_end-to-end_jenkins.io.report.jtl)
-In order to integrate JMeter with Jenkins, the Performance Plugin had to install.
+In order to integrate JMeter with Jenkins, the Performance Plugin had to install.*
 
-Also .jtl files might be used for generation html report (e.g. \pt_bol_exercise\HTMLreport_2_Bol_end-to-end)
+*Also .jtl files might be used for generation html report (e.g. \pt_bol_exercise\HTMLreport_2_Bol_end-to-end)*
 
 2.	Report describing:
 a.	Testing strategies: what and why.
 b.	Testing approaches to the above scenarios.
 c.	Analysis and observation of some key results and metrics.
 d.	Suggestion on potential performance issues and possible solutions, when/if applicable.
+
+*Report could be found in 
