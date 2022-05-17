@@ -9,23 +9,23 @@ Measure a e-commerce web application’s performance with the following scenario
 
 2.	Perform an end-to-end performance test of a checkout workflow.
 
-*Scenario2: 2_Bol_end-to-end
+*Scenario2: 2_Bol_end-to-end*
 
 3.	Define a way to pass parametrized login credentials for logging into an application with 10 different users.
 
-*It was set using the CSV DataSet Config - Users.
+*It was set using the CSV DataSet Config - Users*
 
 4.	Define the pacing required for the application load test for the below specifications:
 Total number of iterations in one hour - 15000
 Total Number of users - 1000
 Total flows – Search flow 50%, Place order - 35 % and Replace order - 15%
 
-*Scenario3: 3_Bol_load_1000VU_1h. Due to time limits, the "Replace Order" flow has been changed to "Log Out"
+*Scenario3: 3_Bol_load_1000VU_1h. Due to time limits, the "Replace Order" flow has been changed to "Log Out"*
 
 Candidates are expected to choose the testing tool and the web application.
 
-*web application: bol.com
-*testing tool: Jmeter
+*web application: bol.com*
+*testing tool: Jmeter*
 
 ## Deliverables
 1.	CI-ready performance test suite(s) which should be setup and executed as part of a pipeline.
