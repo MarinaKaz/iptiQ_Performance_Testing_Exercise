@@ -44,23 +44,4 @@ b.	Testing approaches to the above scenarios.
 c.	Analysis and observation of some key results and metrics.
 d.	Suggestion on potential performance issues and possible solutions, when/if applicable.
 
-*Report could be found here \pt_bol_exercise\Bol_exercise_LoadAPITest_Prod_20220517_Results.doc*
-
-
-3.	Scenario1: 1_Bol_Homepage_1000VU_15sec
-3.1	Results Summary
-
-Test setting	Number of VUser	1000
-	Think time	-
-	Duration	15 sec
-	Rump-up period	15 sec
-Test scope	Home page	
-Test run period	5/17/2022 15:25 PM	 
-Test summary results	Total passed transactions	4634
-	Total failed transactions	4633
-	Total errors	4633
-Summary results	 Test failed. 100% errors ‘java.net.SocketException/Non HTTP response message: Connection reset’ were observed.
-The alleged root cause: DDoS protection	
-	 
-	 
-
+*Report could be found here \pt_bol_exercise\Bol_exercise_LoadAPITest_Prod_20220517_Results.doc*	 
