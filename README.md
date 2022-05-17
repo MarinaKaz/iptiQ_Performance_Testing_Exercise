@@ -25,6 +25,7 @@ Total flows – Search flow 50%, Place order - 35 % and Replace order - 15%
 Candidates are expected to choose the testing tool and the web application.
 
 *web application: bol.com*
+
 *testing tool: Jmeter*
 
 ## Deliverables
