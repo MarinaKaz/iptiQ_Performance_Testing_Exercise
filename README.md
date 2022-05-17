@@ -23,7 +23,7 @@ Total number of iterations in one hour - 15000
 Total Number of users - 1000
 Total flows – Search flow 50%, Place order - 35 % and Replace order - 15%
 
-*Scenario3: 3_Bol_load_1000VU_1h. Due to time limits, the "Replace Order" flow has been changed to "Log Out". Number of total users has been de*. *Constant timer was used between transactions to implement pacing in load testing.*
+*Scenario3: 3_Bol_load_100VU_1h. Due to time limits, the "Replace Order" flow has been changed to "Log Out". Number of total users has been de*. *Constant timer was used between transactions to implement pacing in load testing.*
 *The number of users has been reduced by 10 times(from 1000 to 100), due to java.net.SocketException: Connection reset for bol.com (DDoS Protection Solution)*
 
 ## Deliverables
@@ -44,4 +44,4 @@ b.	Testing approaches to the above scenarios.
 c.	Analysis and observation of some key results and metrics.
 d.	Suggestion on potential performance issues and possible solutions, when/if applicable.
 
-*Report could be found in 
+*Report could be found here \pt_bol_exercise\Bol_exercise_LoadAPITest_Prod_20220517_Results.doc*
