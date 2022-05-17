@@ -1,6 +1,6 @@
 # iptiQ_Performance_Testing_Exercise
 
-## Performance Testing Exercise
+## Performance Testing Exercise for bol.com
 ## Objectives
 Measure a e-commerce web application’s performance with the following scenarios:
 1.	Perform a load test of 1000 visitors visiting the web app’s home page in a 15 seconds period. 
