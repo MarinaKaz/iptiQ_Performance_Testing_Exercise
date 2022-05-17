@@ -1,0 +1,50 @@
+{
+  "https//www.bol.com/nl/nl/" : {
+    "transaction" : "https//www.bol.com/nl/nl/",
+    "sampleCount" : 4634,
+    "errorCount" : 4633,
+    "errorPct" : 99.978424,
+    "meanResTime" : 4082.3269313767833,
+    "medianResTime" : 1302.0,
+    "minResTime" : 40.0,
+    "maxResTime" : 130398.0,
+    "pct1ResTime" : 4381.0,
+    "pct2ResTime" : 6825.0,
+    "pct3ResTime" : 121134.25,
+    "throughput" : 34.28782833888272,
+    "receivedKBytesPerSec" : 96.6221848409175,
+    "sentKBytesPerSec" : 0.006112999445061043
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 4634,
+    "errorCount" : 4633,
+    "errorPct" : 99.978424,
+    "meanResTime" : 4082.3269313767833,
+    "medianResTime" : 1302.0,
+    "minResTime" : 40.0,
+    "maxResTime" : 130398.0,
+    "pct1ResTime" : 4381.0,
+    "pct2ResTime" : 6825.0,
+    "pct3ResTime" : 121134.25,
+    "throughput" : 34.28782833888272,
+    "receivedKBytesPerSec" : 96.6221848409175,
+    "sentKBytesPerSec" : 0.006112999445061043
+  },
+  "01 - Home page" : {
+    "transaction" : "01 - Home page",
+    "sampleCount" : 4634,
+    "errorCount" : 4633,
+    "errorPct" : 99.978424,
+    "meanResTime" : 4082.3269313767846,
+    "medianResTime" : 1302.0,
+    "minResTime" : 40.0,
+    "maxResTime" : 130398.0,
+    "pct1ResTime" : 4381.0,
+    "pct2ResTime" : 6825.0,
+    "pct3ResTime" : 121134.25,
+    "throughput" : 34.25335954939905,
+    "receivedKBytesPerSec" : 96.52505271240187,
+    "sentKBytesPerSec" : 0.00610685418299011
+  }
+}
