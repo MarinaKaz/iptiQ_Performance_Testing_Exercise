@@ -23,9 +23,7 @@ Total number of iterations in one hour - 15000
 Total Number of users - 1000
 Total flows – Search flow 50%, Place order - 35 % and Replace order - 15%
 
-*Scenario3: 3_Bol_load_1000VU_1h. Due to time limits, the "Replace Order" flow has been changed to "Log Out"*
-
-*Constant timer was used between transactions to implement pacing in load testing.*
+*Scenario3: 3_Bol_load_1000VU_1h. Due to time limits, the "Replace Order" flow has been changed to "Log Out"*. *Constant timer was used between transactions to implement pacing in load testing.*
 
 ## Deliverables
 1.	CI-ready performance test suite(s) which should be setup and executed as part of a pipeline.
