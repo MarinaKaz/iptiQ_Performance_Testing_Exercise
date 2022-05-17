@@ -36,7 +36,7 @@ Total flows – Search flow 50%, Place order - 35 % and Replace order - 15%
 As a result, .jtl files have been created (e.g. 2_Bol_end-to-end_jenkins.io.report.jtl)
 In order to integrate JMeter with Jenkins, the Performance Plugin had to install.*
 
-*Also .jtl files might be used for generation html report (e.g. \pt_bol_exercise\HTMLreport_2_Bol_end-to-end)*
+*Also .jtl files might be used for generation html report (e.g. \pt_bol_exercise\result\HTMLreport_2_Bol_end-to-end)*
 
 2.	Report describing:
 a.	Testing strategies: what and why.
