@@ -1,0 +1,2 @@
+# iptiQ_Performance_Testing_Exercise
+Performance_Testing_Exercise for Bol.com
